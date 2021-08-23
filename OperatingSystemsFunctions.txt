@@ -6,3 +6,6 @@ Another function is file managment.
 The OS creates files systems to organize files.
 Programs can use the files systems to store data.
 
+The OS controls the devices and peripherals as well.
+When you connect input and output devies like your mouse, keyboard, and speakers, the OS processes that data.
+Drivers are also used by the OS to control these devices
