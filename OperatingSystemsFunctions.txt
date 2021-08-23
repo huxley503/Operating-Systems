@@ -2,7 +2,7 @@ An operating sytsem is the interface of the computer, allowing the user to inter
 The main function of an operating system is to provide an easy way for the user to control the computer.
 Without the GUI (windows, icons, pointers, text) of the operating system placing commands for the computer to execute would we be extremely difficult.
 
-Another function is file managment.
+Another main function is file managment.
 The OS creates files systems to organize files.
 Programs can use the files systems to store data.
 
