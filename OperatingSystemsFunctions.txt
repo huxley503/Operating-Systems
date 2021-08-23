@@ -1,0 +1,3 @@
+An operating sytsem is the interface of the computer, allowing the user to interact with the computer hardware.
+The main function of an operating system is to provide an easy way for the user to control the computer.
+Without the UI of the operating system placing commands for the computer to execute would we be extremely difficult.
